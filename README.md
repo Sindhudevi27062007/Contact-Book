@@ -21,3 +21,5 @@ User Interface: Design a user-friendly interface for easy interaction.
 #Output of the TASK
 
 ![Image](https://github.com/user-attachments/assets/8a3f89c6-c228-463b-9747-e3fc95d9d380)
+
+![Image](https://github.com/user-attachments/assets/b1401891-1e0c-409a-ba98-3bca9422b8c9)
